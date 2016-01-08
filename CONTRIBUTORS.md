@@ -1,5 +1,5 @@
 # LETTA contributors
-Modificacion del fichero CONTRIBUTORS
+fichero CONTRIBUTORS
 
 El alumno que ha modificado el fichero:
 * Jesús Álvarez Casanova
